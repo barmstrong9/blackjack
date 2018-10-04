@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/barmstrong9/brandon/gophercises/deck"
+	"github.com/barmstrong9/deck"
 )
 
 //Hand allows the user and dealer to have cards
